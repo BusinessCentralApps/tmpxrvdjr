@@ -1,0 +1,20 @@
+{
+  "id": "5f353ab9-dd19-4f83-947e-873311cd712c",
+  "name": "Æøå-app",
+  "version": "1.0.0.0",
+  "publisher": "Süß",
+  "dependencies": [],
+  "application": "22.0.0.0",
+  "runtime": "10.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 50000
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDownloadingSource": true,
+    "allowDebugging": true,
+    "includeSourceInSymbolFile": true
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go/Actions/4410f1adfd3788a54362b1c3ac81f172e9af3ad4/.Modules/settings.schema.json",
+  "shell": "pwsh",
+  "MicrosoftTelemetryConnectionString": "",
+  "runs-on": "ubuntu-latest",
+  "type": "PTE",
+  "artifact": "////nextmajor",
+  "templateUrl": "https://github.com/businesscentralapps/tmpbX5QHc-PTE@main",
+  "RepoName": "Privé"
+}
