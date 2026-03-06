@@ -9,5 +9,6 @@
   "templateUrl": "https://github.com/businesscentralapps/tmpbX5QHc-PTE@main",
   "runs-on": "ubuntu-latest",
   "gitHubRunner": "ubuntu-latest",
-  "UseCompilerFolder": true
+  "UseCompilerFolder": true,
+  "templateSha": "2ecc967d18fdfeeb76659fca3977442c25b1613e"
 }
